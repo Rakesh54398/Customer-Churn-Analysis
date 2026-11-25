@@ -26,3 +26,4 @@ Customer Churn Project /
 
 **Business Impact:** --Identified that low-engagement customers are churning more. Recommended to focus on retention to save revenue.
                      --Monthly Subscripted customers Are Churning More Than Annual Subscripted Customers. Give free Access For one Month.
+                     --convert them Into Annual subscription plan 
