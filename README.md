@@ -7,13 +7,13 @@
 **Tools Used:** SQL, Power BI, Excel / Python for Data Cleaning
 **Files / 
 Customer Churn Project /
--Raw Data 
+1.Raw Data 
 (subscriptions.csv & usage.csv)  
--After Cleaning Using Python & Excel
+2.After Cleaning Using Python & Excel
 (subscriptions_clean.csv & Usage cleaned.csv)
--Analysis Using SQL 
+3.Analysis Using SQL 
 (Customer_churn_analysis.sql & exploratory analysis.sql)
--Dashboard Using PowerBI 
+4.Dashboard Using PowerBI 
 (customer_churn_report.pbix)
 
 
